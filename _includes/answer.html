@@ -2,7 +2,7 @@
   function toggle(element) {
     var x = document.getElementById("answer");
     if (x.style.display === "none") {
-      x.style.display = "block";
+      x.style.display = "inline-block";
     } else {
       x.style.display = "none";
     }
@@ -10,7 +10,7 @@
 </script>
 
 <div>
-  <button onclick="toggle()" style="display:inline-block;">Show Answer</button>
+  <button onclick="toggle()">Show Answer</button>
   <div id="answer" style="display: none;">
     {{ include.answer }}
   </div>
