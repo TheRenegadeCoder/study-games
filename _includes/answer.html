@@ -9,8 +9,9 @@
   }
 </script>
 
-<button onclick="toggle()">Click Me</button>
-
-<div id="answer" style="display: none;">
-  {{ include.answer }}
+<div style="display:inline-block; position:absolute;">
+  <button onclick="toggle()">Show Answer</button>
+  <div id="answer" style="display: none;">
+    {{ include.answer }}
+  </div>
 </div>
