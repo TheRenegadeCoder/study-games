@@ -1,6 +1,6 @@
 <script>
   function toggle(element) {
-    var x = document.getElementById("amswer");
+    var x = document.getElementById("answer");
     if (x.style.display === "none") {
       x.style.display = "block";
     } else {
@@ -11,6 +11,6 @@
 
 <button onclick="toggle()">Click Me</button>
 
-<div id="answer">
+<div id="answer" style="display: none;">
   {{ include.answer }}
 </div>
