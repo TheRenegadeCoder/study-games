@@ -12,6 +12,8 @@ points.
 | [400][4]     | [400][9]    | [400][14]                   | [400][19]   | [400][24] |
 | [500][5]     | [500][10]   | [500][15]                   | [500][20]   | [500][25] |
 
+[Final Jeopardy][26]
+
 [1]: control-flow/100.md
 [2]: control-flow/200.md
 [3]: control-flow/300.md
@@ -37,3 +39,4 @@ points.
 [23]: methods/300.md
 [24]: methods/400.md
 [25]: methods/500.md
+[26]: final.md
