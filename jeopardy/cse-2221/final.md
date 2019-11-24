@@ -1,6 +1,6 @@
 # Final Jeopardy
 
-When Java code is compiled, it isn't converted to binary.
-Instead, it's converted to this intermediate representation.
+When a number doesn't have a name in a program,
+we call it this.
 
-{% include answer.html answer="Bytecode" %}
+{% include answer.html answer="Magic Number" %}
