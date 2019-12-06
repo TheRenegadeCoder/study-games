@@ -1,6 +1,6 @@
-# Jeopardy: Intro to Java
+# Jeopardy: Software Components
 
-Welcome to Jeopardy: Intro to Java! Click a link in the table to uncover
+Welcome to Jeopardy: Software Components! Click a link in the table to uncover
 a statement. Respond to that statement with the correct question to earn the
 points.
 
